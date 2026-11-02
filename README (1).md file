@@ -1,0 +1,41 @@
+
+# Program to Write and Append Data to a File
+
+## Practical No: 03
+
+### Student Information
+- Name: Jariab Noor Salam
+- Roll: 356537
+- Department: Computer Technology
+- Semester: 3rd
+- Institute: National Institute of Technology
+
+## Objective
+To write data into a file and append new data without deleting existing data using Python.
+
+## Apparatus
+- Computer or Laptop
+- Python 3.x
+- Visual Studio Code / Python IDLE
+
+## Working Procedure
+1. Open Python IDE.
+2. Create a Python file.
+3. Use write mode (w) to write data.
+4. Use append mode (a) to add new data.
+5. Use read mode (r) to display file contents.
+6. Run the program.
+
+## Source Code
+See main.py
+
+## Output
+File Contents:
+- Name: Jariab Noor Salam
+- Roll: 356537
+- Department: Computer Technology
+- Semester: 3rd
+- Institute: National Institute of Technology
+
+## Conclusion
+I learned how to write, append and read data from a file using Python.
